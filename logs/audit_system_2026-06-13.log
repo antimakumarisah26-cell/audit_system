@@ -1,0 +1,6 @@
+2026-06-13T18:22:56.432593+0545 | INFO | app.services.database:48 | Default admin account created.
+2026-06-13T18:23:14.156347+0545 | INFO | app.services.database:61 | User 'admin' logged in.
+2026-06-13T18:23:21.376909+0545 | INFO | app.services.ml_model:82 | Model trained on 100 records and saved.
+2026-06-13T18:24:56.228678+0545 | INFO | app.services.database:82 | User 'antima' created.
+2026-06-13T18:26:36.079627+0545 | INFO | app.services.database:61 | User 'antima' logged in.
+2026-06-13T18:26:40.627241+0545 | INFO | app.services.ml_model:92 | Model loaded from disk.
